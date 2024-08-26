@@ -934,6 +934,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "assets/B3F_1000.step"
+			(offset
+				(xyz 3.3 -2.3 0)
+			)
+			(scale
+				(xyz 0.95 0.95 0.95)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "LED_THT:LED_D5.0mm"
 		(layer "F.Cu")
@@ -1547,6 +1558,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "assets/B3F_1000.step"
+			(offset
+				(xyz 3.3 -2.3 0)
+			)
+			(scale
+				(xyz 0.95 0.95 0.95)
+			)
+			(rotate
+				(xyz -90 0 0)
 			)
 		)
 	)
